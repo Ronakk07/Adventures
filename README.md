@@ -16,4 +16,4 @@ The website is for the people who love Adventures, travelling and tours.
 
 ## Demo of Website-
 
-**Website** - [demo](adventourous.netlify.com)
+**Website** - [demo](https://adventourous.netlify.com/)
