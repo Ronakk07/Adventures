@@ -1,5 +1,9 @@
 # Adventures-
 
+## Live Preview of website
+
+![Live Preview](https://media.giphy.com/media/dstctfqSyBfI9ylWi6/giphy.gif)
+
 ```
 This is the static website which is fully coded in HTML and CSS. 
 I have also used CSS preprocessors (SCSS).
